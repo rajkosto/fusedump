@@ -12,7 +12,7 @@ A barebones fuse dumper for the Switch, to be used with fusée gelée.
 
 This section is required by the original license of Atmosphere, GPLv2.
 
- * This originates from [ktemkin's fork of Atmosphere](https://github.com/ktemkin/Atmosphere).
+ * This originates from [ktemkin's fork of Atmosphere](https://github.com/ktemkin/Atmosphere) (branch: poc_nvidia).
  * exosphere has been stripped out, only fusee remains.
  * main.c has been modified to print the fuse data.
  * Makefile has been modified to only build fusee.
