@@ -16,6 +16,7 @@ This section is required by the original license of Atmosphere, GPLv2.
  * exosphere has been stripped out, only fusee remains.
  * main.c has been modified to print the fuse data.
  * Makefile has been modified to only build fusee.
+ * .gitignore has been modified to apply to the new directory structure.
 
 ## Responsibility
 
